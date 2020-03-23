@@ -92,7 +92,7 @@ service-worker: true
 # Friends
 friends: [
   {title: "Chengdong Zhang",href: "http://www.zhangchengdong.site"},
-  {title: "Zishan Zhao",href: "http://www.zhaosishan.com"}
+  {title: "Zishan Zhao",href: "http://www.zhaozishan.com"}
 ]
 
 
