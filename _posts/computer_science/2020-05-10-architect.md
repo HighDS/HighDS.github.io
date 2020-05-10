@@ -1,14 +1,16 @@
 ---
 layout:     post
-title:      架构师技术图谱
-subtitle:   收集整理规划架构师成长路径上需要提升的技能
+title:      架构师路线图
+subtitle:   成长规划
 date:       2020-05-10
-author:     *
+author:     张宇伟
 header-img: img/blog/desk_blue.jpg
 catalog: true
 tags:
-    - 架构师技术图谱
+    - 架构师
+    
 ---
+
 
 <h1>《架构师养成路线》</h1>
 
