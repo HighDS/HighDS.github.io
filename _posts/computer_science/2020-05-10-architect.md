@@ -3,7 +3,7 @@ layout:     post
 title:      架构师路线图
 subtitle:   成长规划
 date:       2020-05-10
-author:     张宇伟
+author:     *
 header-img: img/blog/desk_blue.jpg
 catalog: true
 tags:
